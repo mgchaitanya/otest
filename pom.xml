@@ -44,9 +44,9 @@
 	<name>Databinder Application</name>
 	<dependencies>
 		<dependency>
-			<groupId>net.databinder</groupId>
-			<artifactId>databinder</artifactId>
-			<version>0.9</version>
+			<groupId>org.apache.struts</groupId>
+                        <artifactId>struts2-core</artifactId>
+                        <version>2.3.15.2</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
